@@ -28,7 +28,7 @@ This project is a simplified e-commerce system that handles users, products, ord
 
 If the project is on a repository (GitHub, etc.), clone it:
 
-git clone https://github.com/your-username/ecommerce-system.git
+git clone (https://github.com/RajMerai/E-Commerce.git).
 
 ### Step 2: Open in Eclipse IDE
 
