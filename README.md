@@ -118,7 +118,7 @@ Open `DatabaseConnection.java` and update the URL, USER, and PASSWORD fields wit
 
 ```Java
 
-private static final String URL = "jdbc:mysql://localhost:3306/bookstore_db";
+private static final String URL = "jdbc:mysql://localhost:3306/ecommerce_db";
 private static final String USER = "root";
 private static final String PASSWORD = "password";
 
